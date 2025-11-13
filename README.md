@@ -1,4 +1,4 @@
-AGPlus Cafe & Restaurant System
+AGPlus Cafe & Restaurant System V1.0.0
 
 A modern, lightweight POS and restaurant management system built with Python and Tkinter.
 Designed for cafés, restaurants, poolside service, and small hospitality businesses.

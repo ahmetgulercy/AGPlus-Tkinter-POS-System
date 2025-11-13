@@ -79,3 +79,7 @@ This project is licensed under the MIT License — you are free to use, modify, 
 ❤️ Contributions
 Contributions, issues, and pull requests are warmly welcomed.
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
+

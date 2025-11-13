@@ -20,7 +20,7 @@ Designed for cafés, restaurants, poolside service, and small hospitality busine
 Screenshots are available in the repository under the /screenshots folder.
 
 🛠️ Technologies Used
-Python 3
+Python3
 Tkinter
 JSON storage
 PyInstaller (for building .exe)
